@@ -1,4 +1,4 @@
- # Automated YouTube playlist downloader
+ # Automated YouTube playlist downloader using Selenium IDE
   Created script which automatically downloads YouTube playlists in high sound quality.
 
  ## Requirements
