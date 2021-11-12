@@ -8,7 +8,7 @@
  ## Requirements
  - Install Selenium IDE in your browser
  - Download Playlist.side file
- - Open Playlist.side file with Selenium side
+ - Open Playlist.side file with Selenium IDE
  - Inside change number of songs target value to a number of how many songs you want to download(songs are downloaded starting from first and so on)
  - Link target value change to your playlist link(not song, but all playlist link)
  - Top left corner press run all tests, keep your browser open while
