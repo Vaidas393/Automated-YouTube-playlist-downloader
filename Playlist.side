@@ -1,7 +1,7 @@
 {
   "id": "b8744d8a-c849-4290-b43d-6a927e41fbb1",
   "version": "2.0",
-  "name": "Plylist",
+  "name": "Playlist",
   "url": "https://www.google.lt",
   "tests": [{
     "id": "a103cdc6-f419-4162-b488-7e70075b8ab3",
@@ -10,7 +10,7 @@
       "id": "e6d07351-89bb-4e57-bd56-46f59dc6c529",
       "comment": "",
       "command": "store",
-      "target": "5",
+      "target": "137",
       "targets": [],
       "value": "numberOfSongs"
     }, {
@@ -39,6 +39,195 @@
       "comment": "",
       "command": "open",
       "target": "${link}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "30230a0b-b9e9-452a-96e0-30193257fb29",
+      "comment": "",
+      "command": "if",
+      "target": "${x}>=100",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b5c9545b-169a-4374-9c3d-500ff4615d27",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//ytd-playlist-video-renderer[100]/div[1]/yt-icon",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5853715d-5960-469d-b348-e963cf85a8d6",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3f9f2cb0-be2a-47d5-a95f-1bf20975d3fc",
+      "comment": "",
+      "command": "if",
+      "target": "${x}>=200",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "64dff053-f310-459e-bd79-fae2a319624e",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//ytd-playlist-video-renderer[200]/div[1]/yt-icon",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f90e5ffa-6459-457b-b866-d9bac90739f2",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0e0c20c1-0524-468c-8110-33e5b9221b6c",
+      "comment": "",
+      "command": "if",
+      "target": "${x}>=300",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3a4fd090-55f4-4561-899d-e400040d6fbc",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//ytd-playlist-video-renderer[300]/div[1]/yt-icon",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9f818da1-3d8f-4bf1-ab93-f4a1f8b1901f",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9a3c93d2-56cb-4068-99a4-e819bae2c24a",
+      "comment": "",
+      "command": "if",
+      "target": "${x}>=400",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c3dede65-13e0-4676-9dd0-79024aed9cd5",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//ytd-playlist-video-renderer[400]/div[1]/yt-icon",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "48f2ecd4-7906-4b23-b9f6-edfe34022321",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2a97c388-558c-404c-ab8f-1bec359ff79f",
+      "comment": "",
+      "command": "if",
+      "target": "${x}>=500",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0ff93ee1-6246-43ff-be3c-cbf0ef9dc95f",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//ytd-playlist-video-renderer[500]/div[1]/yt-icon",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9b8c00b0-7d6c-4ae7-9381-61df706ceaeb",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "01ba2a06-6309-4ba3-aafa-94c793314a3b",
+      "comment": "",
+      "command": "if",
+      "target": "${x}>=600",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c08b7429-92ba-4280-a472-c0ee4ec94b26",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//ytd-playlist-video-renderer[600]/div[1]/yt-icon",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d5cdee3b-fc12-4f8e-b70b-dd9979fc4208",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d245a075-de48-4b67-a540-246489175899",
+      "comment": "",
+      "command": "if",
+      "target": "${x}>=700",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fa796e52-f96b-4936-b5c3-c6788c2ced7f",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//ytd-playlist-video-renderer[700]/div[1]/yt-icon",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "08a77177-47eb-48d3-ac7a-aa110d55883f",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "00340ed3-86d3-453d-9d81-b862bcf22c75",
+      "comment": "",
+      "command": "if",
+      "target": "${x}>=800",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "918c09ed-3190-4597-acc0-745e80385934",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//ytd-playlist-video-renderer[800]/div[1]/yt-icon",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6a692672-64b7-4564-b4ff-3d67908b66bd",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9dadf9c5-1357-4586-8fe1-827c2963c00d",
+      "comment": "",
+      "command": "if",
+      "target": "${x}>=900",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "afb78d8d-c1e8-4ed6-b94c-cd787ee4bb41",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//ytd-playlist-video-renderer[900]/div[1]/yt-icon",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fae55758-f9ca-4c8d-ba23-e3bda500b275",
+      "comment": "",
+      "command": "end",
+      "target": "",
       "targets": [],
       "value": ""
     }, {
