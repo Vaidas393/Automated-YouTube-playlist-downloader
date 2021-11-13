@@ -13,5 +13,6 @@
  - Link target value change to your playlist link(not song, but all playlist link)
  - Top left corner press run all tests, don't close your browser untill downloads are finished(you can minimize the browser)
  - Allow site https://ytmp3eu.com/en45/ always download multiple files
+ - Make sure that mp3 files are automatically saved from your browser without promting save table
  
  ### Authors: [Vaidas Pocius]( https://github.com/Vaidas393)
