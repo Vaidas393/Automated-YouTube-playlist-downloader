@@ -10,7 +10,7 @@
       "id": "e6d07351-89bb-4e57-bd56-46f59dc6c529",
       "comment": "",
       "command": "store",
-      "target": "137",
+      "target": "666",
       "targets": [],
       "value": "numberOfSongs"
     }, {
@@ -66,14 +66,14 @@
       "id": "3f9f2cb0-be2a-47d5-a95f-1bf20975d3fc",
       "comment": "",
       "command": "if",
-      "target": "${x}>=200",
+      "target": "${x}>=130",
       "targets": [],
       "value": ""
     }, {
       "id": "64dff053-f310-459e-bd79-fae2a319624e",
       "comment": "",
       "command": "click",
-      "target": "xpath=//ytd-playlist-video-renderer[200]/div[1]/yt-icon",
+      "target": "xpath=//ytd-playlist-video-renderer[130]/div[1]/yt-icon",
       "targets": [],
       "value": ""
     }, {
@@ -87,14 +87,14 @@
       "id": "0e0c20c1-0524-468c-8110-33e5b9221b6c",
       "comment": "",
       "command": "if",
-      "target": "${x}>=300",
+      "target": "${x}>=160",
       "targets": [],
       "value": ""
     }, {
       "id": "3a4fd090-55f4-4561-899d-e400040d6fbc",
       "comment": "",
       "command": "click",
-      "target": "xpath=//ytd-playlist-video-renderer[300]/div[1]/yt-icon",
+      "target": "xpath=//ytd-playlist-video-renderer[160]/div[1]/yt-icon",
       "targets": [],
       "value": ""
     }, {
@@ -108,14 +108,14 @@
       "id": "9a3c93d2-56cb-4068-99a4-e819bae2c24a",
       "comment": "",
       "command": "if",
-      "target": "${x}>=400",
+      "target": "${x}>=190",
       "targets": [],
       "value": ""
     }, {
       "id": "c3dede65-13e0-4676-9dd0-79024aed9cd5",
       "comment": "",
       "command": "click",
-      "target": "xpath=//ytd-playlist-video-renderer[400]/div[1]/yt-icon",
+      "target": "xpath=//ytd-playlist-video-renderer[190]/div[1]/yt-icon",
       "targets": [],
       "value": ""
     }, {
@@ -129,14 +129,14 @@
       "id": "2a97c388-558c-404c-ab8f-1bec359ff79f",
       "comment": "",
       "command": "if",
-      "target": "${x}>=500",
+      "target": "${x}>=220",
       "targets": [],
       "value": ""
     }, {
       "id": "0ff93ee1-6246-43ff-be3c-cbf0ef9dc95f",
       "comment": "",
       "command": "click",
-      "target": "xpath=//ytd-playlist-video-renderer[500]/div[1]/yt-icon",
+      "target": "xpath=//ytd-playlist-video-renderer[220]/div[1]/yt-icon",
       "targets": [],
       "value": ""
     }, {
@@ -150,14 +150,14 @@
       "id": "01ba2a06-6309-4ba3-aafa-94c793314a3b",
       "comment": "",
       "command": "if",
-      "target": "${x}>=600",
+      "target": "${x}>=250",
       "targets": [],
       "value": ""
     }, {
       "id": "c08b7429-92ba-4280-a472-c0ee4ec94b26",
       "comment": "",
       "command": "click",
-      "target": "xpath=//ytd-playlist-video-renderer[600]/div[1]/yt-icon",
+      "target": "xpath=//ytd-playlist-video-renderer[250]/div[1]/yt-icon",
       "targets": [],
       "value": ""
     }, {
@@ -171,14 +171,14 @@
       "id": "d245a075-de48-4b67-a540-246489175899",
       "comment": "",
       "command": "if",
-      "target": "${x}>=700",
+      "target": "${x}>=280",
       "targets": [],
       "value": ""
     }, {
       "id": "fa796e52-f96b-4936-b5c3-c6788c2ced7f",
       "comment": "",
       "command": "click",
-      "target": "xpath=//ytd-playlist-video-renderer[700]/div[1]/yt-icon",
+      "target": "xpath=//ytd-playlist-video-renderer[280]/div[1]/yt-icon",
       "targets": [],
       "value": ""
     }, {
@@ -192,14 +192,14 @@
       "id": "00340ed3-86d3-453d-9d81-b862bcf22c75",
       "comment": "",
       "command": "if",
-      "target": "${x}>=800",
+      "target": "${x}>=310",
       "targets": [],
       "value": ""
     }, {
       "id": "918c09ed-3190-4597-acc0-745e80385934",
       "comment": "",
       "command": "click",
-      "target": "xpath=//ytd-playlist-video-renderer[800]/div[1]/yt-icon",
+      "target": "xpath=//ytd-playlist-video-renderer[310]/div[1]/yt-icon",
       "targets": [],
       "value": ""
     }, {
@@ -213,18 +213,60 @@
       "id": "9dadf9c5-1357-4586-8fe1-827c2963c00d",
       "comment": "",
       "command": "if",
-      "target": "${x}>=900",
+      "target": "${x}>=340",
       "targets": [],
       "value": ""
     }, {
       "id": "afb78d8d-c1e8-4ed6-b94c-cd787ee4bb41",
       "comment": "",
       "command": "click",
-      "target": "xpath=//ytd-playlist-video-renderer[900]/div[1]/yt-icon",
+      "target": "xpath=//ytd-playlist-video-renderer[340]/div[1]/yt-icon",
       "targets": [],
       "value": ""
     }, {
       "id": "fae55758-f9ca-4c8d-ba23-e3bda500b275",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cd7acb7a-8e01-4ed8-810f-8b8a8156e6bb",
+      "comment": "",
+      "command": "if",
+      "target": "${x}>=370",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8a4f6844-9b67-4311-87b5-342010732a5a",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//ytd-playlist-video-renderer[370]/div[1]/yt-icon",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f454997d-a22d-4353-ab90-6c2ddb2bba0d",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3567c1a0-45eb-406f-9cc5-56a6b615ab79",
+      "comment": "",
+      "command": "if",
+      "target": "${x}>=400",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c592cb10-9abd-47da-912e-a54c8d7a3da5",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//ytd-playlist-video-renderer[400]/div[1]/yt-icon",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "758bfbe9-9077-4daf-9ef5-ef419c80c31a",
       "comment": "",
       "command": "end",
       "target": "",
@@ -241,7 +283,7 @@
       "id": "7682e7f6-02f7-4381-82de-9a2ca3c2a1a2",
       "comment": "",
       "command": "echo",
-      "target": "${songUrl}",
+      "target": "${x}",
       "targets": [],
       "value": ""
     }, {
@@ -290,7 +332,7 @@
       "id": "8db61976-54d5-4993-8595-1f239fa4098e",
       "comment": "",
       "command": "pause",
-      "target": "20000",
+      "target": "30000",
       "targets": [],
       "value": ""
     }, {
