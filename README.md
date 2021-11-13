@@ -5,7 +5,7 @@
  - Browser
  - Selenium IDE
 
- ## Requirements
+ ## Usage
  - Install Selenium IDE in your browser
  - Download Playlist.side file
  - Open Playlist.side file with Selenium IDE
